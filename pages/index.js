@@ -2,11 +2,14 @@ import {useState} from "react";
 
 function Home(){
     return (
-    <div>
-        <div>Home 2</div>
-        <Contador/>
-    </div>
-)
+        <div>
+            <div>
+                <div>Home Luis Ricardo Costa</div>
+            </div>
+            <div></div>
+            <Contador/>
+        </div>
+    )
 }
 
 function Contador(){
